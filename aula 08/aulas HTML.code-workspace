@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/aulas HTML"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Arthur Lisboa Sanches"
+	}
+}
